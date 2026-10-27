@@ -1,0 +1,7 @@
+# B&R Automation Studio: артефакты сборки и пользовательские настройки
+Temp/
+Binaries/
+Diagnosis/
+*.isopen
+*.set
+.DS_Store
